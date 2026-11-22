@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @PankajKhanwariya 
-- 👀 I’m interested in SUPER NEW TECHNIQUES BY HOW WHICH WE CAN AUTOMATE OR ATLEST REDUCE OUR STEADY MANUAL INTERVENTION on recurring things.
-- 💞️ I’m looking to collaborate on github community
-- 📫 How to reach me ... mail me
-- 😄 Pronouns: ... always working
-- ⚡ Fun fact: ... WHAT CAN BE EXPLAINED WITH MATHS, THAT CAN DEFINITELY BE BUILD ON CODING.
+### Hi, I'm Pankaj Kumar 👋
 
-<!---
-PankajKhanwariya/PankajKhanwariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Scientist & AI Engineer** | Building intelligent automation, scalable ML systems, and LLM-powered workflows.
+
+With 7 years of experience turning complex data into business decisions across Risk Analytics and Retail, I’m now focused on **AI Engineering**—bridging traditional machine learning with generative AI, RAG architectures, and end-to-end pipeline automation to eliminate repetitive manual work.
+
+- 🔭 **Currently building:** Multimodal LLM applications, RAG pipelines with vector databases, and automated NLP extraction systems.
+- 🧠 **Core Stack:** Python, SQL (Oracle/PL-SQL), LightGBM, XGBoost, PyTorch, Transformers, Streamlit, Docker, Git.
+- 🎯 **Focus Areas:** Predictive Modeling, Credit Risk & Collections Analytics, Zero-Shot NLP, and Intelligent Process Automation.
+- 🤝 **Open to collaborating on:** Applied GenAI tools, open-source MLOps/RAG workflows, and automated analytics pipelines.
+- 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/pankaj-analyticssupremacy/)
+
+> *"Anything that can be explained with math can be engineered in code."*
